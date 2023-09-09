@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    text-transform: capitalize;
+}
+
+.fix {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    border-bottom: 2px solid #777;
+}
+
+nav {
+    border: 3px solid #777;
+}
+
+.center {
+    margin: 0 auto;
+    width: fit-content;
+    padding: 20px;
+}
+
+div {
+    width: 350px;
+    margin: 20px auto;
+}
+
+img {
+    width: 100%;
+}
